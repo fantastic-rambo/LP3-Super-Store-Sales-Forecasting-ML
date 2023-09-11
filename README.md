@@ -1,6 +1,7 @@
 # WELCOME TO MY GITHUB PAGE
 
-![Time-Series-Forecasting-image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQbmY9a3ZucqZQx1RdV1zZANwXFJ6FIjg0qrJdbjFGx26-0mFk2_VQfDrFau2KyX_FipY&usqp=CAU)
+![Time-Series-Forecasting-image](https://images.startups.co.uk/wp-content/uploads/2023/05/sales-forecast.jpg?width=709&height=460&fit=crop)
+
 Elevating Retail Analytics: Predicting Ecuador's Grocery Sales - The Favorita Forecasting Challenge!
 
 

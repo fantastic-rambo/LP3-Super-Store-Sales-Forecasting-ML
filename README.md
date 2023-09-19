@@ -17,6 +17,7 @@ In this data-driven project, we delve deep into the intricate art of predictive 
 This project follows the CRISP-DM (Cross-Industry Standard Process for Data Mining) framework to explore and analyze sales for store sales for Favorita. The aim is to leverage data-driven insights to identify models that can accurately predict the value of the dependent variable based on the values of the independent variables.
 
 ## 📑 Table of Contents
+
 - [Project Overview](#project-overview)
 - [Project Structure](#project-structure)
 - [Data Dictionary](#data-dictionary)
@@ -26,8 +27,6 @@ This project follows the CRISP-DM (Cross-Industry Standard Process for Data Mini
   - [Results](#results)
 - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
 - [Model Selection](#model-selection)
-- [Model Evaluation (Confusion Matrix)](#model-evaluation-confusion-matrix)
-- [Classification Metrics Score](#classification-metrics-score)
 - [Recommendations](#recommendations)
 - [Getting Started](#getting-started)
 - [License](#license)
